@@ -1,0 +1,13 @@
+{
+    "autoload": {
+    	"configs": {
+            /** php is default */
+            "ext": "php" /** php or class.php or inc.php */
+    	},
+    	"paths": {
+            /** key equals namespace and paths for class */
+            "Autoload\\": "autoload/loader/",
+            "Tests\\": "tests/"
+    	}
+    }
+}
