@@ -43,7 +43,7 @@ require_once (__DIR__ . '/autoload/loader/Autoloader.php');
  * 
  */
 
-Autoloader::run([
+return Autoloader::run([
     'dirlevel' => -1,
     'namespaces' => true,
     'filename' => 'autoload-paths-for-test',
