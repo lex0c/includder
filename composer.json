@@ -1,0 +1,13 @@
+{
+  "name": "lleocastro/includder",
+  "description": "This autoloader follows the specification of PSR-4",
+  "authors": [ 
+    {
+      "name": "Léo Castro",
+      "email": "leonardo_carvalho@outlook.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.0"
+  }
+}
