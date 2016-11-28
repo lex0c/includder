@@ -73,20 +73,11 @@ file in the project root.
 
 For internal tests define the ``` dirlevel => -1 ```.
 
+## To contributions 
+
+Please, see [doc for contribute](https://github.com/lleocastro/includder/blob/master/CONTRIBUTE.md). Thanks!
 
 
+## License
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+The Encryptor is licensed under the MIT license. See [License File](https://github.com/lleocastro/includder/blob/master/LICENSE) for more information.
