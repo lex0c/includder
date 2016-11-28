@@ -69,7 +69,7 @@ file in the project root.
 
 <hr>
 
-##### After defining the parameters, include this file 'autoload.php' at the boot of your application!
+###### After defining the parameters, include this file 'autoload.php' at the boot of your application!
 
 <hr>
 
