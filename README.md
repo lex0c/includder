@@ -10,7 +10,7 @@ but works perfectly independent of the framework.
 
 ## Installation
 
-> It's recommended that you download this package and import it for your project.
+> It's recommended that you clone this package and import it for your project.
 
 ```bash
 git clone https://github.com/lleocastro/includder.git
@@ -69,7 +69,7 @@ file in the project root.
 
 <hr>
 
-###### After defining the parameters, include this file 'autoload.php' at the boot of your application!
+###### *After defining the parameters, include this file 'autoload.php' at the boot of your application!
 
 <hr>
 
