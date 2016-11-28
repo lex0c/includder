@@ -10,10 +10,10 @@ but works perfectly independent of the framework.
 
 ## Installation
 
-> It's recommended that you use Composer to install Includder.
+> It's recommended that you download this package and import it for your project.
 
 ```bash
-composer require lleocastro/includder
+git clone https://github.com/lleocastro/includder.git
 ```
 <hr>
 
