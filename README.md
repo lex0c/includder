@@ -80,4 +80,4 @@ Please, see [doc for contribute](https://github.com/lleocastro/includder/blob/ma
 
 ## License
 
-The Encryptor is licensed under the MIT license. See [License File](https://github.com/lleocastro/includder/blob/master/LICENSE) for more information.
+The Includder is licensed under the MIT license. See [License File](https://github.com/lleocastro/includder/blob/master/LICENSE) for more information.
